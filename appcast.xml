@@ -7,6 +7,27 @@
     <language>fr</language>
 
     <item>
+      <title>Version 1.0.1</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.0.1</h2>
+        <p>Correction de bugs</p>
+        <ul>
+          <li>Correction du freeze lors de la transcription en mode distribué</li>
+          <li>Ajout de la permission réseau local pour whisper-server</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 17 Jan 2026 21:25:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.1/WhisperDictation-1.0.1.dmg"
+        sparkle:edSignature="GTGpkGWVz+RQ4SAVlMALSp4ySzjEi1aBUWyOmBMUy48BqbF1MWUBA7LN9NVZACoPpKwN9dfix3FHo+LjkZ/bDw=="
+        length="2370189"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.0.0</title>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
