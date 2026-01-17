@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>WhisperDictation Updates</title>
+    <link>https://raw.githubusercontent.com/TaoGasnier/WDUpdater/main/appcast.xml</link>
+    <description>Updates for WhisperDictation - macOS voice dictation app</description>
+    <language>fr</language>
+
+    <!--
+    Pour ajouter une nouvelle version :
+    1. Créer le DMG signé avec create-dmg
+    2. Signer avec sign_update (Sparkle)
+    3. Ajouter un nouvel <item> ci-dessous avec la signature edSignature
+    4. Uploader le DMG dans les GitHub Releases
+    -->
+
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.0.0</h2>
+        <p>Version initiale avec :</p>
+        <ul>
+          <li>Transcription vocale locale via whisper-cpp</li>
+          <li>Support des modèles Large V3 Turbo et Medium</li>
+          <li>Raccourcis clavier globaux personnalisables</li>
+          <li>Collage automatique du texte transcrit</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 18 Jan 2025 12:00:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.0/WhisperDictation-1.0.0.dmg"
+        sparkle:edSignature="SIGNATURE_A_GENERER"
+        length="50000000"
+        type="application/octet-stream"/>
+    </item>
+
+  </channel>
+</rss>
