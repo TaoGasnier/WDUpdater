@@ -7,6 +7,29 @@
     <language>fr</language>
 
     <item>
+      <title>Version 1.0.4</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.0.4</h2>
+        <p>Nouvel indicateur de statut flottant</p>
+        <ul>
+          <li>Nouvel indicateur de statut flottant en forme de pilule en bas de l'écran</li>
+          <li>Animation fluide d'apparition/disparition</li>
+          <li>Icône animée pendant la transcription</li>
+          <li>Amélioration du formatage du texte transcrit (suppression des sauts de ligne inutiles)</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 18 Jan 2026 00:30:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.4/WhisperDictation-1.0.4.dmg"
+        sparkle:edSignature="eE/4tpqE6uP2V0828/ti2ISFifuGgJHmd6Qlgc3YnO/LLSqnY56+U8iiNcciFkPYfzntdftJjiGOqRmH7JKbDQ=="
+        length="2387893"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.0.3</title>
       <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
