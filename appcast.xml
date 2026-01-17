@@ -7,6 +7,27 @@
     <language>fr</language>
 
     <item>
+      <title>Version 1.0.3</title>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.0.3</h2>
+        <p>Corrections pour la première installation</p>
+        <ul>
+          <li>Correction de l'erreur CMake lors de la compilation de whisper-cpp sur nouvelle machine</li>
+          <li>Correction de l'affichage de la progression du téléchargement (affichait "(null)%")</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 18 Jan 2026 00:05:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.3/WhisperDictation-1.0.3.dmg"
+        sparkle:edSignature="VnMAnZBY5DXSN5sOr8CGyWY6a9j1Rw5dnRS/vHAbkUfoaE+d8UF6kzEkYfZ/hnhFQWvW2XmSXZ7VAztTNf8vDw=="
+        length="2370262"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.0.2</title>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
