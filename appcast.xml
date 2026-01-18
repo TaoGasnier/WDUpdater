@@ -12,19 +12,19 @@
       <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
       <description><![CDATA[
         <h2>WhisperDictation 1.0.5</h2>
-        <p>Support des Mac Intel</p>
+        <p>Support Intel + Correction latence UI</p>
         <ul>
           <li>Application universelle compatible Apple Silicon et Intel</li>
-          <li>Détection automatique de l'architecture</li>
-          <li>Compilation optimisée de whisper-cpp selon le processeur</li>
+          <li>Correction du délai d'affichage de l'indicateur "Listening..."</li>
+          <li>L'UI s'affiche maintenant instantanément au lieu de 100-500ms</li>
         </ul>
       ]]></description>
-      <pubDate>Sat, 18 Jan 2026 02:33:00 +0100</pubDate>
+      <pubDate>Sat, 18 Jan 2026 15:51:00 +0100</pubDate>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.5/WhisperDictation-1.0.5.dmg"
-        sparkle:edSignature="eBxfnZfGLg4hOQTbtL0OGyb/2BhBUEzUD3bnS3bvsIPEHHu9fe6Ff2P8U/pzeSFX7+U9wAdJI60nV23mnJnJCQ=="
-        length="2403872"
+        sparkle:edSignature="kwIdebAkjUR1WY3DvrssUv1Vin7L1xQGEJvz2Ao6U8rvFamLCV5Gdo6bvO8Ju8/9CrURfwHUM+hESKJ3fYVcCA=="
+        length="2405883"
         type="application/octet-stream"/>
     </item>
 
