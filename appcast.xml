@@ -7,6 +7,28 @@
     <language>fr</language>
 
     <item>
+      <title>Version 1.0.6</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.0.6</h2>
+        <p>Signature Developer ID et notarisation Apple</p>
+        <ul>
+          <li>Application signée avec un certificat Developer ID Apple</li>
+          <li>Notarisation Apple pour une installation sans avertissement Gatekeeper</li>
+          <li>Affichage instantané de l'indicateur "Listening..." au démarrage de l'enregistrement</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 23 Jan 2026 09:10:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.6/WhisperDictation-1.0.6.dmg"
+        sparkle:edSignature="Wes8XwD44nN8Xw1G1epN0yyWQ1bllZR0dz/whVTbuT1/s9zAfM2sXqWJAGOxCehgjdyfOXcbA6k7+FdNz9WwBQ=="
+        length="2466887"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.0.5</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
