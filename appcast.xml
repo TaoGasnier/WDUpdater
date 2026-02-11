@@ -7,6 +7,29 @@
     <language>fr</language>
 
     <item>
+      <title>Version 1.0.7</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.0.7</h2>
+        <p>Installation instantanée et transcription plus rapide</p>
+        <ul>
+          <li>Le modèle de transcription est maintenant intégré dans l'application, plus besoin de téléchargement au premier lancement</li>
+          <li>Transcription plus rapide grâce au serveur persistant (~1.6s)</li>
+          <li>Correction de la latence après une longue période d'inactivité</li>
+          <li>Récupération automatique du serveur après mise en veille</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 11 Feb 2026 21:15:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.7/WhisperDictation-1.0.7.dmg"
+        sparkle:edSignature="9sL5LN/LBTg/OfLXhyU3lnJlYT4GNpaExvp0GbZC2Ty1XLI6EsooPUTrT0YXGQ1kAP6oKzqLtQcQJLJBSY2dCA=="
+        length="1500718470"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.0.6</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
