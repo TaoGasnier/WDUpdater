@@ -7,6 +7,27 @@
     <language>fr</language>
 
     <item>
+      <title>Version 1.0.8</title>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.0.8</h2>
+        <ul>
+          <li>Instant hotkey responsiveness, even after long periods of inactivity or sleep</li>
+          <li>Fixed a bug where the "Listening" bubble could stay stuck on screen after a short recording</li>
+          <li>Added dynamic recording level indicator</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 16 Feb 2026 22:30:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.8/WhisperDictation-1.0.8.dmg"
+        sparkle:edSignature="lkqz5E1ECyd99ktLgsi3J5tQ1E3u/aVwOoGD6P39qNMBn+jrqFKEj62XRPVeApRCtnx+x7eidc6ewEGBA8+JAg=="
+        length="1500750400"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.0.7</title>
       <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
