@@ -7,6 +7,27 @@
     <language>fr</language>
 
     <item>
+      <title>Version 1.0.9</title>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.0.9</h2>
+        <ul>
+          <li>Correction du blocage après inactivité prolongée</li>
+          <li>Animation du micro en temps réel pendant l'enregistrement</li>
+          <li>Bulle d'erreur quand aucun son n'est détecté</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 25 Feb 2026 15:52:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.0.9/WhisperDictation-1.0.9.dmg"
+        sparkle:edSignature="P3PEWH4l4Tz7iUbFqUxamrUV2lrv1nRgYfdAgGQ+Y1sx1IceQoBT6bx+Ls4bEECTnNI4XSWKFc48uCdBEjpFCQ=="
+        length="1500749766"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.0.8</title>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
