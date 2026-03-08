@@ -7,6 +7,23 @@
     <language>fr</language>
 
 <item>
+      <title>Version 1.1.2</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>WhisperDictation 1.1.2</h2>
+        <p>Correctif affichage bulle d'information sur macOS 12/13 (rendu AppKit natif)</p>
+      ]]></description>
+      <pubDate>Sat, 08 Mar 2026 12:45:00 +0100</pubDate>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/TaoGasnier/WDUpdater/releases/download/v1.1.2/WhisperDictation-1.1.2.dmg"
+        sparkle:edSignature="2VSwBA2LcPm28a5CUytpCBzLA4I5RkrbfN5gQTRUorOC0/LAjN/Rjy/sFRmLUQ1p01Nay0HatylOduqPzSBbCQ=="
+        length="1995027128"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.1.1</title>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
